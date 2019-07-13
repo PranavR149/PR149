@@ -1,2 +1,2 @@
 # Arduino Code
-This is my GitHub
+Code for "Smart Dustbin"
